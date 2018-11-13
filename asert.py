@@ -1,6 +1,10 @@
 # assertion testing
-
+tt
 str = "hello world!"
 #comment
-
-assert str == 'hello world!'
+,cdcdccc
+jmhj,yhj,
+8uikjkhvv
+jjhbvv
+hnjkFVVFEVDFVFVVFVDVFVFVFVFVFVddd
+dddddd
